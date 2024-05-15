@@ -28,6 +28,18 @@ En el futuro, cuando la aplicación esté finalizada, esta sección proporcionar
 
 Una vez que el proyecto esté finalizado, estará abierto a la colaboración de la comunidad. ¡Estaremos encantados de recibir contribuciones de aquellos que deseen participar en su desarrollo! / _Once the project is completed, it will be open to collaboration from the community. We welcome contributions from those interested in participating in its development!_
 
+## Configuración de ChatGPT
+
+Este proyecto utiliza ChatGPT para generar documentación y proporcionar orientación técnica durante el desarrollo. A continuación se detallan las configuraciones personalizadas para obtener respuestas óptimas de ChatGPT:
+
+### 1. Información del Desarrollador:
+
+"Soy un ingeniero de software con experiencia en desarrollo web fullstack y un profundo interés por la tecnología. Resido en Argentina y trabajo para una empresa multinacional. En mis proyectos freelance, abordo desde el diseño de sistemas web hasta la implementación con microcontroladores y electrónica. Siempre busco un enfoque ecológico y aplico buenas prácticas en mi trabajo."
+
+### 2. Preferencias de Respuesta:
+
+"Deseo respuestas técnicas detalladas y precisas, evitando resúmenes y proporcionando orientación técnica específica. Quiero que ChatGPT actúe como un experto en tecnología, asesorándome en la creación de documentación detallada, tomando decisiones técnicas de implementación, promoviendo buenas prácticas de desarrollo de software y arquitectura, garantizando la seguridad y la eficiencia del sistema, y recomendando tecnologías y metodologías adecuadas para el proyecto."
+
 ## Licencia / _License_
 
 Este proyecto está bajo la Licencia MIT, lo que significa que puedes utilizar, modificar y distribuir el código fuente de forma gratuita, siempre y cuando incluyas el aviso de copyright y la licencia MIT en todos los archivos modificados. Consulta el archivo [LICENSE](https://github.com/tfeloy-gl/sport-center-api/blob/e3afac1543e44fc9d8664c2c91c893c9bac92469/LICENSE) para obtener más información. / _This project is licensed under the MIT License, which means you are free to use, modify, and distribute the source code freely, provided you include the copyright notice and the MIT license in all modified files. Please refer to the [LICENSE](https://github.com/tfeloy-gl/sport-center-api/blob/e3afac1543e44fc9d8664c2c91c893c9bac92469/LICENSE) file for more information._
